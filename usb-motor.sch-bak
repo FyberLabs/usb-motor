@@ -220,6 +220,4 @@ Text Label 5300 2825 0    50   ~ 0
 GND
 Text Notes 1850 4200 0    50   ~ 0
 Should support 20V 2-3A charging easily with 2oz board.\nWill test up to 5A if possible...\nMotor output is battery voltage*current - \n30-50W easily and maybe up to (14.8*6A)90W with 4 cells.
-Text Notes 7150 3250 0    50   ~ 0
-Brushless can be\nbased on\nL6234 or TC78 or TB67\nDRV10983... etc.\nN-FETs w/DRV8xxx\nPowerbank needs 5V\nCC/VDDD setup\nVSYS needs\nXT30 for general\ncharging
 $EndSCHEMATC
