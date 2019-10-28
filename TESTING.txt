@@ -1,0 +1,3 @@
+Design looks mostly good on fab of 0.3a.
+Trying T5 paste for flow through stencil small pads.
+May need to widen paste stencils for small pads or switch components.
