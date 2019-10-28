@@ -1195,7 +1195,7 @@ L Connector_Generic:Conn_02x03_Odd_Even J3
 U 1 1 5D183F8A
 P 4350 5600
 F 0 "J3" H 4400 5375 50  0000 C CNN
-F 1 "Cells" H 4400 5800 50  0000 C CNN
+F 1 "Cell THs" H 4400 5800 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 4350 5600 50  0001 C CNN
 F 3 "~" H 4350 5600 50  0001 C CNN
 	1    4350 5600
