@@ -1,3 +1,11 @@
+T5 is too small possibly.  A lot of solder bridges, but the assembly took 7 hours...
+RMCF0402JT100R replaced by RC0402FR-07100RL
+NCP03XH103E05RL convert to 0402?
+10 more VLMB1500-GS08 than ordered, probably reversed them all… datasheet is horrible
+Redo motor board with smaller/correct IFX9201SGAUMA1 footprint
+Brushed Motor board will be specially refabbed at 0.3.0-b.
+
 Design looks mostly good on fab of 0.3a.
 Trying T5 paste for flow through stencil small pads.
 May need to widen paste stencils for small pads or switch components.
+
